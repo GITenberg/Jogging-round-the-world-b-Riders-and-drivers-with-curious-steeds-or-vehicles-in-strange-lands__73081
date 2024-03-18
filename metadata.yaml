@@ -1,11 +1,16 @@
 _repo: Jogging-round-the-world-b-Riders-and-drivers-with-curious-steeds-or-vehicles-in-strange-lands__73081
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73081-h/images/cover.jpg
 creator:
   author:
     agent_name: Dunham, Edith
     gutenberg_agent_id: '56896'
     url: http://www.gutenberg.org/2009/agents/56896
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73081#Jogging-round-the-world-b-Riders-and-drivers-with-curious-steeds-or-vehicles-in-strange-lands_
 gutenberg_issued: '2024-03-01'
 gutenberg_type: Text
 identifiers:
